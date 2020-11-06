@@ -1,0 +1,3 @@
+/home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/cmake-build-debug/CMakeFiles/Hafta1.dir

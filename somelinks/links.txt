@@ -1,0 +1,25 @@
+Data types
+======================
+https://www.tutorialspoint.com/cplusplus/cpp_data_types
+
+C++ preprocessors
+======================
+https://www.geeksforgeeks.org/cc-preprocessors/
+
+Uninitiliazed behaviour
+======================
+https://www.learncpp.com/cpp-tutorial/uninitialized-variables-and-undefined-behavior/#:~:text=Uninitialized%20means%20the%20object%20has,been%20given%20a%20known%20value).
+
+
+Char numbers
+======================
+https://www.learncpp.com/cpp-tutorial/chars/
+
+
+C++ keywords
+======================
+https://www.javatpoint.com/cpp-keywords
+
+C++ callby value call by reference
+======================
+https://www.javatpoint.com/call-by-value-and-call-by-reference-in-cpp
