@@ -77,27 +77,27 @@ include CMakeFiles/Hafta1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Hafta1.dir/flags.make
 
-CMakeFiles/Hafta1.dir/helloworld.cpp.o: CMakeFiles/Hafta1.dir/flags.make
-CMakeFiles/Hafta1.dir/helloworld.cpp.o: ../helloworld.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Hafta1.dir/helloworld.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hafta1.dir/helloworld.cpp.o -c /home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/helloworld.cpp
+CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.o: CMakeFiles/Hafta1.dir/flags.make
+CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.o: ../1den10aBolunebilenIlkSayi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.o -c /home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/1den10aBolunebilenIlkSayi.cpp
 
-CMakeFiles/Hafta1.dir/helloworld.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hafta1.dir/helloworld.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/helloworld.cpp > CMakeFiles/Hafta1.dir/helloworld.cpp.i
+CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/1den10aBolunebilenIlkSayi.cpp > CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.i
 
-CMakeFiles/Hafta1.dir/helloworld.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hafta1.dir/helloworld.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/helloworld.cpp -o CMakeFiles/Hafta1.dir/helloworld.cpp.s
+CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/1den10aBolunebilenIlkSayi.cpp -o CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.s
 
 # Object files for target Hafta1
 Hafta1_OBJECTS = \
-"CMakeFiles/Hafta1.dir/helloworld.cpp.o"
+"CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.o"
 
 # External object files for target Hafta1
 Hafta1_EXTERNAL_OBJECTS =
 
-Hafta1: CMakeFiles/Hafta1.dir/helloworld.cpp.o
+Hafta1: CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.o
 Hafta1: CMakeFiles/Hafta1.dir/build.make
 Hafta1: CMakeFiles/Hafta1.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Hafta1"

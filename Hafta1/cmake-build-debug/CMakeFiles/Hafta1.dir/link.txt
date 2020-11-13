@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Hafta1.dir/helloworld.cpp.o  -o Hafta1 
+/usr/bin/c++  -g   CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.o  -o Hafta1 

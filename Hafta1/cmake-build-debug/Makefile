@@ -143,32 +143,32 @@ Hafta1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/build
 .PHONY : Hafta1/fast
 
-helloworld.o: helloworld.cpp.o
+1den10aBolunebilenIlkSayi.o: 1den10aBolunebilenIlkSayi.cpp.o
 
-.PHONY : helloworld.o
+.PHONY : 1den10aBolunebilenIlkSayi.o
 
 # target to build an object file
-helloworld.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/helloworld.cpp.o
-.PHONY : helloworld.cpp.o
+1den10aBolunebilenIlkSayi.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.o
+.PHONY : 1den10aBolunebilenIlkSayi.cpp.o
 
-helloworld.i: helloworld.cpp.i
+1den10aBolunebilenIlkSayi.i: 1den10aBolunebilenIlkSayi.cpp.i
 
-.PHONY : helloworld.i
+.PHONY : 1den10aBolunebilenIlkSayi.i
 
 # target to preprocess a source file
-helloworld.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/helloworld.cpp.i
-.PHONY : helloworld.cpp.i
+1den10aBolunebilenIlkSayi.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.i
+.PHONY : 1den10aBolunebilenIlkSayi.cpp.i
 
-helloworld.s: helloworld.cpp.s
+1den10aBolunebilenIlkSayi.s: 1den10aBolunebilenIlkSayi.cpp.s
 
-.PHONY : helloworld.s
+.PHONY : 1den10aBolunebilenIlkSayi.s
 
 # target to generate assembly for a file
-helloworld.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/helloworld.cpp.s
-.PHONY : helloworld.cpp.s
+1den10aBolunebilenIlkSayi.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.s
+.PHONY : 1den10aBolunebilenIlkSayi.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Hafta1"
-	@echo "... helloworld.o"
-	@echo "... helloworld.i"
-	@echo "... helloworld.s"
+	@echo "... 1den10aBolunebilenIlkSayi.o"
+	@echo "... 1den10aBolunebilenIlkSayi.i"
+	@echo "... 1den10aBolunebilenIlkSayi.s"
 .PHONY : help
 
 
