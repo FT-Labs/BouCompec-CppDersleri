@@ -23,3 +23,7 @@ https://www.javatpoint.com/cpp-keywords
 C++ callby value call by reference
 ======================
 https://www.javatpoint.com/call-by-value-and-call-by-reference-in-cpp
+
+C++ static,heap and stack memory
+======================
+https://craftofcoding.wordpress.com/2015/12/07/memory-in-c-the-stack-the-heap-and-static/
