@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/1den10aBolunebilenIlkSayi.cpp" "/home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/cmake-build-debug/CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.o"
+  "/home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/deneme.cpp" "/home/phys-tech/Desktop/Codes/C++/COMPEC-Egitim/Hafta1/cmake-build-debug/CMakeFiles/Hafta1.dir/deneme.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

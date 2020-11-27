@@ -3,4 +3,4 @@ project(Hafta1)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Hafta1 1den10aBolunebilenIlkSayi.cpp)
+add_executable(Hafta1 deneme.cpp)

@@ -143,32 +143,32 @@ Hafta1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/build
 .PHONY : Hafta1/fast
 
-1den10aBolunebilenIlkSayi.o: 1den10aBolunebilenIlkSayi.cpp.o
+deneme.o: deneme.cpp.o
 
-.PHONY : 1den10aBolunebilenIlkSayi.o
+.PHONY : deneme.o
 
 # target to build an object file
-1den10aBolunebilenIlkSayi.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.o
-.PHONY : 1den10aBolunebilenIlkSayi.cpp.o
+deneme.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/deneme.cpp.o
+.PHONY : deneme.cpp.o
 
-1den10aBolunebilenIlkSayi.i: 1den10aBolunebilenIlkSayi.cpp.i
+deneme.i: deneme.cpp.i
 
-.PHONY : 1den10aBolunebilenIlkSayi.i
+.PHONY : deneme.i
 
 # target to preprocess a source file
-1den10aBolunebilenIlkSayi.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.i
-.PHONY : 1den10aBolunebilenIlkSayi.cpp.i
+deneme.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/deneme.cpp.i
+.PHONY : deneme.cpp.i
 
-1den10aBolunebilenIlkSayi.s: 1den10aBolunebilenIlkSayi.cpp.s
+deneme.s: deneme.cpp.s
 
-.PHONY : 1den10aBolunebilenIlkSayi.s
+.PHONY : deneme.s
 
 # target to generate assembly for a file
-1den10aBolunebilenIlkSayi.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/1den10aBolunebilenIlkSayi.cpp.s
-.PHONY : 1den10aBolunebilenIlkSayi.cpp.s
+deneme.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hafta1.dir/build.make CMakeFiles/Hafta1.dir/deneme.cpp.s
+.PHONY : deneme.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Hafta1"
-	@echo "... 1den10aBolunebilenIlkSayi.o"
-	@echo "... 1den10aBolunebilenIlkSayi.i"
-	@echo "... 1den10aBolunebilenIlkSayi.s"
+	@echo "... deneme.o"
+	@echo "... deneme.i"
+	@echo "... deneme.s"
 .PHONY : help
 
 
